@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KubeDev/conversao-temperatura.git"
+    "url": "git+https://github.com/ljunior1401/conversao-temperatura.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KubeDev/conversao-temperatura/issues"
+    "url": "https://github.com/ljunior1401/conversao-temperatura/issues"
   },
-  "homepage": "https://github.com/KubeDev/conversao-temperatura#readme",
+  "homepage": "https://github.com/ljunior1401/conversao-temperatura#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
